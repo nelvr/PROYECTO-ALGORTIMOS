@@ -4,8 +4,6 @@ import colorama
 from colorama import * 
 from enum import Enum
 import re 
-
-# Inicializar colorama
 init(autoreset=True)
 
 # Arreglos y matrices 
